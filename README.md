@@ -1,7 +1,14 @@
 ### Hi there 👋
 
+<div align="center">
+<img src="https://github.com/dulabdul/dulabdul/blob/main/welcome_greeting.gif?raw=true" align="center" height="325" />
+</div>  
 <!--
 **dulabdul/dulabdul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+# <div align="center">Developer Full Stack / Angular - NodeJS</div>
+
+### <div align="center">🚧 My portfolio (thomascauquil.fr) redirects you here because i am updating it for 2023 🚧</div><br />
 
 Here are some ideas to get you started:
 
@@ -13,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
