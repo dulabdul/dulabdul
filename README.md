@@ -6,9 +6,6 @@
 <!--
 **dulabdul/dulabdul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-# <div align="center">Developer Full Stack / Angular - NodeJS</div>
-
-### <div align="center">🚧 My portfolio (thomascauquil.fr) redirects you here because i am updating it for 2023 🚧</div><br />
 
 Here are some ideas to get you started:
 
@@ -21,3 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   -->
+  
+# <div align="center">Developer Full Stack / Angular - NodeJS</div>
+
+### <div align="center">🚧 My portfolio (thomascauquil.fr) redirects you here because i am updating it for 2023 🚧</div><br />
