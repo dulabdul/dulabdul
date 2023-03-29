@@ -8,6 +8,11 @@ Hi there, I'm <a href="https://ar-portofolio.my.id/" target="_blank" rel="norefe
 
 # <div align="center">Currently I Learning Full Stack / ReactJS - NodeJS</div>
 
+<p style='text-transform:capitalize'>I'm a front end web developer. I love the process from slicing design to coding, I love every process, I contribute to front-end and backend projects</p>
+
+<br/>
+<br/>
+
 - 🌱 I’m currently learning ReactJS / NodeJS / Typescripts / MongoDB
 
 - 💻 All of my projects are available at [https://ar-portofolio.my.id/](https://ar-portofolio.my.id/)
@@ -27,6 +32,7 @@ Hi there, I'm <a href="https://ar-portofolio.my.id/" target="_blank" rel="norefe
 <img alt='React' style="margin: 10px" src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAF'/> 
 <img alt='TailwindCSS' style="margin: 10px" src='https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white'/> 
 <img alt='SASS' style="margin: 10px" src='https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white'/> 
+<img alt='MUI' style="margin: 10px" src='https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white'/> 
 <img alt='Bootstrap' style="margin: 10px" src='https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white'/> 
 </div>
 
@@ -50,6 +56,7 @@ Hi there, I'm <a href="https://ar-portofolio.my.id/" target="_blank" rel="norefe
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" height='25'  />  
 <img style="margin: 10px" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"  /> 
+<img style="margin: 10px" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"  /> 
  
 </div>
 
