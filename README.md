@@ -1,9 +1,11 @@
-### Hi there 👋
+<h3 align="center">
+Hi there, I'm <a href="https://ar-portofolio.my.id/" target="_blank" rel="noreferrer">Abdul</a> 👋
+</h3>
 
 <div align="center">
 <img src="https://github.com/dulabdul/dulabdul/blob/main/welcome_greeting.gif?raw=true" align="center" height="325" alt='My Banner' />
-</div>  
-  
+</div>
+
 # <div align="center">Currently I Learning Full Stack / ReactJS - NodeJS</div>
 
 - 🌱 I’m currently learning ReactJS / NodeJS / Typescripts / MongoDB
@@ -55,6 +57,9 @@
 
 <br/>
 
+### 🤝 Connect with me:
+
+<br/>
 <div align="center">
 <a href="https://github.com/dulabdul" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -68,9 +73,12 @@
 </div>
 
 <br/>
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
+<br/>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=thomasync&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=dulabdul&&style=flat-square" align="center" />
 </div>
 
 <br/>
