@@ -13,7 +13,7 @@ Hi there, I'm <a href="https://ar-portofolio.my.id/" target="_blank" rel="norefe
 <br/>
 <br/>
 
-- 🌱 I’m currently learning ReactJS / NodeJS / Typescripts / MongoDB
+- 🌱 I’m currently learning NextJS / ReactJS / NodeJS / Typescripts / MongoDB
 
 - 💻 All of my projects are available at [https://ar-portofolio.my.id/](https://ar-portofolio.my.id/)
 
